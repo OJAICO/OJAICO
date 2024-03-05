@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student
 ----------------------------
 
-I've been coding in python for the past 3 years, now I studying Software Engineering with CodeSpace. CodeSpace introduced me to HTML5, CSS3, Tailwind, Git and JavaScript.
+I've been coding in python for the past 3 years, now I'm studying Software Engineering with CodeSpace. CodeSpace introduced me to HTML5, CSS3, Tailwind, Git and JavaScript.
 
 * 🌍  I'm based in South Africa
 * 🖥️  See my portfolio at [My website](http://melodious-biscotti-5f55c7.netlify.app/)
