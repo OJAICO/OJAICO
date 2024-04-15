@@ -11,7 +11,7 @@ I've been coding in python for the past 3 years, now I'm studying Software Engin
 * ✉️  You can contact me at [ofentsemekgwe911@gmail.com](mailto:ofentsemekgwe911@gmail.com)
 * 🧠  I'm learning Advanced JavaScript, APIs
 * 🤝  I'm open to collaborating on FinTech projects
-* ⚡  I son named Ore
+* ⚡  I have a son named Ore🌞
 
 <a href="https://www.x.com/@ofentse9119" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/@ofentse9119?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
